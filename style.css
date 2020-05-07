@@ -1,6 +1,6 @@
 img.icons {
-    width: 15px;
-    height: 15px;
+    width: 25px;
+    height: 25px;
     padding: 2px;
     margin: 3px 3px 3px 3px;
 }
@@ -213,7 +213,7 @@ img.icons {
     padding: 0px 0px 0px 0px;
 }
 
-.junon {
+.non {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -222,50 +222,19 @@ img.icons {
     padding: 0px 50px 0px 50px;
 }
 
-.jack {
-    width: 200px;
-    height: 200px;
-    margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-    background-color: seashell;
-    color: black;
+.
 }
-
-.feb {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    font-size: 15px;
-    margin: 0px 0px 0px 0px;
-    padding: 0px 50px 10px 30px;
-}
-
-.boom {
-    background-color: rgb(29, 27, 27);
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    color: white;
-    font-size: 20px;
-    color: royalblue;
-    margin: 20px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-}
-
 .frank {
     color: white;
 }
-
 .join {
     color: white;
     underline-color: green;
 }
-
 .km {
     background-color: rgb(29, 27, 27);
     color: white;
 }
-
 img.jam2 {
     display: flex;
     flex-direction: row;
@@ -275,7 +244,6 @@ img.jam2 {
     padding: 2px;
     margin: 2px 2px 2px 2px;
 }
-
 .brk {
     background-color: rgb(29, 27, 27);
     display: flex;
@@ -287,7 +255,6 @@ img.jam2 {
     color: white;
     flex-wrap: 1px;
 }
-
 .aman {
     background-color: rgb(29, 27, 27);
     display: flex;
@@ -295,12 +262,10 @@ img.jam2 {
     padding: 5px 0px 0px 850px;
     flex-wrap: 2px;
 }
-
 .asd {
     background-color: rgb(29, 27, 27);
     color: white;
 }
-
 .kkk {
     color: white;
     background-color: royalblue;
