@@ -1,0 +1,311 @@
+img.icons {
+    width: 15px;
+    height: 15px;
+    padding: 2px;
+    margin: 3px 3px 3px 3px;
+}
+
+.container {
+    align-items: center;
+    text-align: center;
+}
+
+.button {
+    border: 1px solid green;
+    border max-width: justify-content;
+    border max-height: 4px;
+    color: green;
+    width: 60px;
+    text-align: center;
+    font-size: 12px;
+    background-color: white;
+}
+
+.main {
+    background-color: royalblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: justify;
+    margin: 5px 5px 5px 5px;
+    padding: 2px;
+    color: white;
+    flex-wrap: 1px;
+}
+
+.qwe {
+    overflow: hidden;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+/* Links inside the navbar */
+
+.one a {
+    float: left;
+    font-size: 12px;
+    color: black;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+}
+
+
+/* The dropdown container */
+
+.two {
+    float: left;
+    overflow: hidden;
+}
+
+
+/* Dropdown button */
+
+.two .dropbtn {
+    font-size: 12px;
+    border: none;
+    outline: none;
+    color: black;
+    padding: 12px 12px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0px;
+}
+
+
+/* Add a red background color to navbar links on hover */
+
+.onea:hover,
+.two:hover .dropbtn {
+    background-color: royalblue;
+    border-radius: 20px;
+    border: 1px;
+}
+
+
+/* Dropdown content (hidden by default) */
+
+.two-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+
+/* Links inside the dropdown */
+
+.two-content a {
+    float: none;
+    color: black;
+    padding: 12px 12px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+
+/* Add a grey background color to dropdown links on hover */
+
+.two-content a:hover {
+    background-color: royalblue;
+    size: 10px;
+}
+
+
+/* Show the dropdown menu on hover */
+
+.two:hover .two-content {
+    display: block;
+}
+
+.say {
+    width: 150px;
+    height: 30px;
+    padding: 2px;
+    margin: 2px 2px 2px 2px;
+    mask-image: initial;
+}
+
+.ocean {
+    background-color: royalblue;
+    color: white;
+    font-size: 12px;
+    padding: 2px;
+    margin: 10px 15px 10px 15px;
+}
+
+.detail {
+    font-size: 30px;
+    color: royalblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.rol {
+    font-size: 30px;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.para {
+    text-align: justify;
+    margin: 10px 80px 10px 80px;
+    font-size: 16px;
+    padding: 5px;
+    color: grey;
+    float: auto;
+}
+
+*/:nter {
+    text-align: center;
+    margin: 1px 6px 1px 8px;
+    font-size: 16px;
+    padding: 6px;
+    background-color: royalblue;
+    float: auto;
+}
+
+.donate {
+    display: inline-block;
+    background-color: whitesmoke;
+    height: 200px;
+    width: 300px;
+    margin: 5px 5px 5px 80px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border: 1px silver;
+    padding: 10px 10px 10px 10px;
+}
+
+.mani {
+    width: 150px;
+    position: absolute;
+    padding: 30px 30px 30px 30px;
+    margin: 20px 150px 200px 50px;
+}
+
+.bot {
+    font-family: sans-serif;
+    font-size: 12px;
+    font-style: inherit;
+    text-align: center;
+    color: royalblue;
+    padding: 70px 50px 50px 40px;
+    margin: 70px 50px 50px 40px;
+}
+
+.car2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 20px;
+    color: royalblue;
+    margin: 20px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.junon {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 15px;
+    margin: 20px 0px 0px 0px;
+    padding: 0px 50px 0px 50px;
+}
+
+.jack {
+    width: 200px;
+    height: 200px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    background-color: seashell;
+    color: black;
+}
+
+.feb {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 15px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 50px 10px 30px;
+}
+
+.boom {
+    background-color: rgb(29, 27, 27);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    font-size: 20px;
+    color: royalblue;
+    margin: 20px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.frank {
+    color: white;
+}
+
+.join {
+    color: white;
+    underline-color: green;
+}
+
+.km {
+    background-color: rgb(29, 27, 27);
+    color: white;
+}
+
+img.jam2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 25px;
+    height: 25px;
+    padding: 2px;
+    margin: 2px 2px 2px 2px;
+}
+
+.brk {
+    background-color: rgb(29, 27, 27);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: justify;
+    margin: 5px 5px 5px 5px;
+    padding: 2px;
+    color: white;
+    flex-wrap: 1px;
+}
+
+.aman {
+    background-color: rgb(29, 27, 27);
+    display: flex;
+    flex-direction: row;
+    padding: 5px 0px 0px 850px;
+    flex-wrap: 2px;
+}
+
+.asd {
+    background-color: rgb(29, 27, 27);
+    color: white;
+}
+
+.kkk {
+    color: white;
+    background-color: royalblue;
+    height: 60px;
+    margin: 12px 0px 0px 0px;
+    padding: 12px 0px 0px 0px;
+    text-align: justify;
+}
